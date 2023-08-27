@@ -1,8 +1,6 @@
-<center>
 <picture>
 <img src="https://github.com/itratjassani/hdps/blob/main/assets/images/logo.png" height=100px >
 </picture>
-</center>
 
 ## Abstract/Introduction
 Timely identification of the symptom(s) of Heart Diseases is crucial to human health. Avoiding the unhealthy and taking necessary care to stop the development of symptoms can become very challenging. It often gets too late to see a consultant and treating the disease becomes very expensive, and life-threatening at times.
